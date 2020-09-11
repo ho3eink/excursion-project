@@ -1,4 +1,8 @@
 html {
   background-color: black;
   font-size: 18px;
+  color: white;
+}
+video {
+margin: 100px;
 }
